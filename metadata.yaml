@@ -1,13 +1,18 @@
 _repo: Summer-Flowers-of-the-High-Alps_66278
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator: &id001
     agent_name: Hastings, Somerville
     gutenberg_agent_id: '53725'
     url: http://www.gutenberg.org/2009/agents/53725
+covers:
+- cover_type: archival
+  image_path: 66278-h/images/cover.jpg
 creator:
   author: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66278#Summer-Flowers-of-the-High-Alps
 gutenberg_issued: '2021-09-12'
 identifiers:
   gutenberg: '66278'
